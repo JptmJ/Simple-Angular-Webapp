@@ -1,0 +1,13 @@
+img {
+    width: -webkit-fill-available;
+}
+
+p {
+    font-size: large;
+}
+
+.container {
+    max-width: 960px;
+    background-color: rgb(235, 232, 232);
+    padding: 60px;
+}
