@@ -25,4 +25,14 @@ img {
     .form-col {
         margin-top: 15px;
     }
+
+    iframe {
+        width: -webkit-fill-available;
+        height: auto;
+    }
+}
+
+iframe {
+    width: -webkit-fill-available;
+    border-radius: 10px;
 }
